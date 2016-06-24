@@ -1,0 +1,592 @@
+1;1;Fabricante;2
+2;1;Modelo;2
+3;1;Número de serie;2
+4;1;Tipo (estándar, de baja temperatura, de condensación);2
+5;1;Número de pasos;0
+6;1;Año de fabricación;2
+7;1;Fecha de último timbrado;2
+8;1;Fluido portador (agua, vapor, aceite térmico);2
+9;1;Temperatura máxima del fluido (°C);1
+10;1;Presión máxima de ejercicio (bar);1
+11;1;Presión de trabajo (bar);1
+12;1;Potencia térmica máxima (kW);1
+13;1;Potencia térmica mínima (kW);1
+14;1;Quemador -> número de etapas;0
+15;1;Quemador -> modulante, hasta el     % de la potencia máxima;0
+16;1;Quemador -> caudal de combustible máximo (kg/s);1
+17;1;Quemador -> caudal de combustible mínimo (kg/s);1
+18;1;Dimensiones;2
+19;3;Fabricante;2
+20;3;Modelo;2
+21;3;Número de serie;2
+22;3;Tipo (estándar, de baja temperatura, de condensación);2
+23;3;Número de pasos;0
+24;3;Año de fabricación;2
+25;3;Fecha de último timbrado;2
+26;3;Fluido portador (agua, vapor, aceite térmico);2
+27;3;Temperatura máxima del fluido (°C);1
+28;3;Presión máxima de ejercicio (bar);1
+29;3;Presión de trabajo (bar);1
+30;3;Potencia térmica máxima (kW);1
+31;3;Potencia térmica mínima (kW);1
+32;3;Quemador -> número de etapas;0
+33;3;Quemador -> modulante, hasta el     % de la potencia máxima;0
+34;3;Quemador -> caudal de combustible máximo (L/s);1
+35;3;Quemador -> caudal de combustible mínimo (L/s);1
+36;3;Quemador -> presión del combustible (kPa);2
+37;3;Dimensiones;2
+38;4;Fabricante;2
+39;4;Modelo;2
+40;4;Número de serie;2
+41;4;Superficie de absorción (m2);0
+42;4;Rendimiento óptico (?);1
+43;4;Coeficiente de pérdida de calor k1 (W/(m2·°C));1
+44;4;Coeficiente de pérdida de calor k2 (W/(m2·°C));1
+45;4;Factor de corrección de ángulo (Iam(50°C));1
+46;4;Capacidad térmica C (kJ (m2·°C));1
+47;4;Temperatura de inactividad máxima (°C);1
+48;4;Sobrepresión máxima de servicio admisible (kPa);1
+49;4;Medio caloportador;2
+50;4;Densidad (kg/L);1
+51;4;Ph -;1
+52;5;Fabricante;2
+53;5;Modelo;2
+54;5;Número de serie;2
+55;5;Compresor ->Tipo (alternativo, scroll, tornillo, centrífugo);2
+56;5;Compresor ->Tipo (hermético, semihermético, abierto);2
+57;5;Compresor ->Tipo de accionamiento (motor eléctrico, motor térmico);2
+58;5;Compresor ->Número de compresores;0
+59;5;Compresor ->Número de circuitos independientes;0
+60;5;Compresor ->Refrigerante (R);1
+61;5;Compresor ->Carga de refrigerante por circuito frigorífico (kg);1
+62;5;Compresor ->Carga total de refrigerante (kg);1
+63;5;Intercambiador interno ->Tipo (multitubular, tubo en tubo, placas);2
+64;5;Intercambiador interno -> Funcionamiento (inundado, seco);2
+65;5;Intercambiador interno ->Número;0
+66;5;Intercambiador interno ->Número de circuitos frigoríficos por intercambiador;0
+67;5;Intercambiadores externo de tubo y aletas (baterias) -> Tipo (multitubular, tubo en tubo, placas);2
+68;5;Intercambiadores externo de tubo y aletas (baterias) -> Número;0
+69;5;Intercambiadores externo de tubo y aletas (baterias) -> Enfriamiento (agua, aire);2
+70;5;Recuperador de calor -> Tipo (multitubular, tubo en tubo, placas);2
+71;5;Recuperador de calor -> Número;0
+72;5;Enfriamiento gratuito;2
+73;5;Régimen de funcionamiento Verano (número de meses);0
+74;5;Régimen de funcionamiento Invierno (número de meses);0
+75;5;Dimensiones;2
+76;6;Fabricante;2
+77;6;Modelo;2
+78;6;Número de serie;2
+79;6;Pareja refrigerante-absorbente (agua-bromuro de litio, amoníaco-agua);2
+80;6;Generador (llama directa, vapor de agua saturado, agua caliente);2
+81;6;Temperatura vapor o agua;1
+82;6;Inhibidor (Nitrato de litio, cromato de litio, molibdato de litio);2
+83;6;Número de etapas;0
+84;6;Carga de productos -> Refrigerante (L);1
+85;6;Carga de productos -> Absorbente (L);1
+86;6;Carga de productos -> Alcohol octílico (L);1
+87;6;Régimen de funcionamiento Verano (número de meses);0
+88;6;Régimen de funcionamiento Invierno (número de meses);0
+89;6;Dimensiones;2
+90;18;Fabricante;2
+91;18;Modelo;2
+92;18;Número de serie;2
+93;18;Superficie de absorción (m2);0
+94;18;Rendimiento óptico (?);1
+95;18;Coeficiente de pérdida de calor k1 (W/(m2·°C));1
+96;18;Coeficiente de pérdida de calor k2 (W/(m2·°C));1
+97;18;Factor de corrección de ángulo (Iam(50°C));1
+98;18;Capacidad térmica C (kJ (m2·°C));1
+99;18;Temperatura de inactividad máxima (°C);1
+100;18;Sobrepresión máxima de servicio admisible (kPa);1
+101;18;Medio caloportador;2
+102;18;Densidad (kg/L);1
+103;18;Ph;1
+104;2;Fabricante;2
+105;2;Modelo;2
+106;2;Capacidad (L);1
+107;10;Fabricante;2
+108;10;Modelo;2
+109;10;Número de serie;2
+110;10;Categorías a la que pertenece la UTA, según UNE 100180;2
+111;10;Clase de estanquidad y fugas;2
+112;10;Clase de resistencia mecánica;2
+113;10;Clase de transmitancia térmica;2
+114;10;Clase de puentes térmicos;2
+115;10;Dimensiones;2
+116;11;Fabricante;2
+117;11;Modelo;2
+118;11;Número de serie;2
+119;11;Tipo según UNE-EN 779;2
+120;11;Superficie frontal;2
+121;11;Número de paneles;0
+122;11;Función (prefiltro, filtro final);2
+123;12;Fabricante;2
+124;12;Modelo;2
+125;12;Número de serie;2
+126;12;Tipo placas material (aluminio, acero inoxidable, plástico);2
+127;12;Tipo rotativo (sensible o entálpico);2
+128;12;Tipo tubos de calor;2
+129;12;Tipo baterías;2
+130;17;Tipo (Sencilla, Duplex);2
+131;17;Tipo montaje (Bancada, In line);2
+132;17;Tipo de cierre (Hermética, Empaquetadura, Mecánico);2
+133;17;Fluido impulsado Agua caldera A.C.S., Agua fría, Solución anticongelante tipo y porcentaje;2
+134;17;Velocidad de giro (rpm);0
+135;17;Caudal nominal (L/s);1
+136;17;Presión nominal (Pa);1
+137;17;Alimentación eléctrica (V);1
+138;17;Consumo (A);1
+139;17;Potencia (kW);1
+140;28;Material (acero negro, acero inoxidable, acero galvanizado, PVC, polipropileno, poliéster, otros);2
+141;28;Tipo de aislamiento térmico;2
+142;28;Tipo de terminación exterior;2
+143;28;Temperatura media de servicio (°C);1
+144;28;Presión nominal (bar);1
+145;28;Presión de trabajo (bar);1
+146;29;Función (corte, regulación, retención, purga, vaciado, detentor de radiador);2
+147;29;Fabricante;2
+148;29;Tipo (mariposa, esfera, asiento, compuerta, aguja);2
+149;29;Numero de vías;0
+150;29;DN (mm);1
+151;29;Tipo de aislamiento térmico;2
+152;29;Espesor del aislamiento térmico (mm);1
+153;29;Tipo de terminación exterior;2
+154;29;PN (bar);1
+155;29;Presión de trabajo (bar);1
+156;30;Fabricante;2
+157;30;Modelo;2
+158;30;Numero de serie;2
+159;30;Presión de timbre (bar);1
+160;30;Presión de trabajo (bar);1
+161;30;Fecha del último timbrado;2
+162;30;Presión de tarado de válvula de seguridad (bar);1
+163;30;Material (acero negro, acero inoxidable, poliéster, otros);2
+164;30;Recubrimiento interior;2
+165;30;Volumen (L);1
+166;30;Dimensiones;2
+167;30;Tipo de aislamiento térmico;2
+168;30;Espesor del aislamiento térmico (mm);1
+169;30;Tipo de terminación exterior;2
+170;31;Fabricante;2
+171;31;Modelo;2
+172;31;Diámetro (mm);1
+173;31;Presión de timbre (bar);1
+174;32;Tipo (de fuelle axial, lira);2
+175;32;Fabricante;2
+176;32;Diámetro (mm);1
+177;32;PN (bar);1
+178;33;Fabricante;2
+179;33;Modelo;2
+180;33;Volumen neto de acumulación de agua;2
+181;33;PN (bar);1
+182;33;Presión de trabajo máxima (bar);1
+183;33;Presión de trabajo mínima (bar);1
+184;34;Tipo;2
+185;34;Fabricante;2
+186;34;Diámetro (mm);1
+187;34;PN (bar);1
+188;35;Tipo;2
+189;35;Fabricante;2
+190;35;Diámetro (mm);1
+191;35;PN (bar);1
+192;35;Presión de tarado (bar);1
+193;36;Tipo;2
+194;36;Fabricante;2
+195;36;Modelo;2
+196;36;Diámetro del tamiz (mm);1
+197;36;Diámetro nominal (mm);1
+198;36;Dimensiones;2
+199;36;PN (bar);1
+200;37;Fabricante;2
+201;37;Tipo;2
+202;37;Modelo;2
+203;37;Material aislante;2
+204;37;Diámetro;2
+205;37;PN (bar);1
+206;38;Fabricante;2
+207;38;Tipo;2
+208;38;Modelo;2
+209;38;Diámetro de conexiones;2
+210;38;PN (bar);1
+211;38;Fecha de última verificación de timbre;2
+212;39;Fabricante;2
+213;39;Tipo;2
+214;39;Modelo;2
+215;39;Caudal máximo;2
+216;39;Caudal mínimo;2
+217;39;Fecha de la última verificación;2
+218;40;Fabricante;2
+219;40;Tipo;2
+220;40;Modelo;2
+221;41;Fabricante;2
+222;41;Tipo;2
+223;41;Modelo;2
+224;41;PN (bar);1
+225;42;Fabricante;2
+226;42;Tipo;2
+227;42;Modelo;2
+228;42;PN (bar);1
+229;43;Fabricante;2
+230;43;Tipo;2
+231;43;Modelo;2
+232;43;Caudal de la bomba (L/s);1
+233;43;Presión de la bomba (kPa);1
+234;43;Potencia del motor (kW);1
+235;44;Fabricante;2
+236;44;Tipo;2
+237;44;Diámetro (mm);1
+238;44;Longitud (mm);1
+239;45;Fabricante;2
+240;45;Tipo;2
+241;45;Modelo;2
+242;45;Potencia térmica de intercambio (kW);1
+243;45;Fluido primario -> caudal (L/s);1
+244;45;Fluido primario -> temperatura entrada (ºC);1
+245;45;Fluido primario -> temperatura salida (ºC);1
+246;45;Fluido secundario -> caudal (L/s);1
+247;45;Fluido secundario -> temperatura entrada (ºC);1
+248;45;Fluido secundario -> temperatura salida (ºC);1
+249;46;Fabricante;2
+250;46;Tipo;2
+251;46;Modelo;2
+252;46;Material tubos (cobre,  cuproníquel, acero, acero inoxidable, otros);2
+253;46;Tipo de tubos (paredes lisas, aleteado externo, espiral interna);2
+254;46;Forma de tubos (rectos, horquillas);2
+255;46;Año de fabricación;2
+256;46;Fecha de timbrado;2
+257;46;Volumen;2
+258;46;Presión de timbre;2
+259;46;Presión de trabajo;2
+260;46;Potencia térmica de intercambio (kW);1
+261;46;Fluido primario -> caudal (L/s);1
+262;46;Fluido primario -> temperatura entrada (ºC);1
+263;46;Fluido primario -> temperatura salida (ºC);1
+264;46;Fluido secundario -> caudal (L/s);1
+265;46;Fluido secundario -> temperatura entrada (ºC);1
+266;46;Fluido secundario -> temperatura salida (ºC);1
+267;46;Válvula de seguridad (Tipo);2
+268;47;Fabricante;2
+269;47;Tipo;2
+270;47;Modelo;2
+271;47;Material tubos internos (cobre, cuproníquel, acero);2
+272;47;Tipo de tubos internos (paredes lisas, aleteadas);2
+273;47;Potencia térmica de intercambio (kW);1
+274;47;Fluido primario -> caudal (L/s);1
+275;47;Fluido primario -> temperatura entrada (ºC);1
+276;47;Fluido primario -> temperatura salida (ºC);1
+277;47;Fluido secundario -> caudal (L/s);1
+278;47;Fluido secundario -> temperatura entrada (ºC);1
+279;47;Fluido secundario -> temperatura salida (ºC);1
+280;48;Fabricante;2
+281;48;Tipo;2
+282;48;Modelo;2
+283;48;Potencia batería frío (kW);1
+284;48;Potencia batería calor (kW);1
+285;48;Potencia batería eléctrica (kW);1
+286;48;Agua refrigerada batería -> caudal (L/s);1
+287;48;Agua refrigerada batería -> temperatura entrada (ºC);1
+288;48;Agua refrigerada batería -> temperatura salida (ºC);1
+289;48;Agua caliente batería -> caudal (L/s);1
+290;48;Agua caliente batería -> temperatura entrada (ºC);1
+291;48;Agua caliente batería -> temperatura salida (ºC);1
+292;48;Potencia del motor ventilador (kW);1
+293;48;Velocidad máxima del ventilador (rpm);1
+294;48;Velocidad mínima del ventilador (rpm);1
+295;48;Caudal máximo de aire (L/s);1
+296;48;Caudal mínimo de aire (L/s);1
+297;49;Fabricante;2
+298;49;Tipo;2
+299;49;Modelo;2
+300;49;Potencia batería frío (kW);1
+301;49;Potencia batería calor (kW);1
+302;49;Potencia batería eléctrica (kW);1
+303;49;Agua refrigerada batería -> caudal (L/s);1
+304;49;Agua refrigerada batería -> temperatura entrada (ºC);1
+305;49;Agua refrigerada batería -> temperatura salida (ºC);1
+306;49;Agua caliente batería -> caudal (L/s);1
+307;49;Agua caliente batería -> temperatura entrada (ºC);1
+308;49;Agua caliente batería -> temperatura salida (ºC);1
+309;49;Caudal de aire primario (L/s);1
+310;49;Presión del aire en toberas (kPa);1
+311;49;Temperatura de aire primario (ºC);1
+312;50;Fabricante;2
+313;50;Tipo;2
+314;50;Modelo;2
+315;50;Caudal de aire (L/s);1
+316;50;Temperatura de aire máxima (ºC);1
+317;50;Temperatura de aire mínima (ºC);1
+318;50;Presión mínima de aire en conductos (kPa);1
+319;50;Presión máxima de aire en conductos (kPa);1
+320;51;Fabricante;2
+321;51;Tipo;2
+322;51;Modelo;2
+323;51;Caudal de aire (L/s);1
+324;51;Temperatura de aire máxima (ºC);1
+325;51;Temperatura de aire mínima (ºC);1
+326;51;Presión mínima de aire en conductos (kPa);1
+327;51;Presión máxima de aire en conductos (kPa);1
+328;51;Batería de calentamiento -> caudal de agua (L/s) ;1
+329;51;Batería de calentamiento -> temperatura entrada (ºC);1
+330;51;Batería de calentamiento -> temperatura salida (ºC);1
+331;52;Fabricante;2
+332;52;Tipo;2
+333;52;Modelo;2
+334;52;Válvula de control;2
+335;52;Modelo (Válvula de control);2
+336;52;Tipo (Válvula de control);2
+337;52;Temperatura de agua (ºC);1
+338;52;Potencia calorífica (W);1
+339;53;Fabricante;2
+340;53;Tipo;2
+341;53;Caudal de agua (L/s);1
+342;53;Temperatura de agua caliente (ºC);1
+343;53;Temperatura de agua fría (ºC);1
+344;54;Fabricante;2
+345;54;Tipo;2
+346;54;Modelo;2
+347;54;Temperatura de agua fría (ºC);1
+348;55;Fabricante;2
+349;55;Tipo;2
+350;55;Modelo;2
+351;55;Potencia batería calor (kW);1
+352;55;Potencia batería eléctrica (kW);1
+353;55;Agua caliente batería -> caudal (L/s);1
+354;55;Agua caliente batería -> temperatura entrada (ºC);1
+355;55;Agua caliente batería -> temperatura salida (ºC);1
+356;55;Potencia del motor ventilador (kW);1
+357;55;Velocidad del ventilador máxima (rpm);1
+358;55;Velocidad del ventilador mínima (rpm);1
+359;55;Caudal de aire máximo (L/s);1
+360;55;Caudal de aire mínimo (L/s);1
+361;55;Velocidad de salida del aire máxima (m/s);1
+362;55;Velocidad de salida del aire mínima (m/s);1
+363;56;Fabricante;2
+364;56;Descripción;2
+365;57;Fabricante;2
+366;57;Descripción;2
+367;58;Fabricante;2
+368;58;Descripción;2
+369;59;Fabricante;2
+370;59;Descripción;2
+371;60;Fabricante;2
+372;60;Descripción;2
+373;61;Fabricante;2
+374;61;Descripción;2
+375;62;Fabricante;2
+376;62;Descripción;2
+377;63;Fabricante;2
+378;63;Descripción;2
+379;64;Fabricante;2
+380;64;Descripción;2
+381;65;Fabricante;2
+382;65;Descripción;2
+383;7;Fabricante;2
+384;7;Modelo;2
+385;7;Número de serie;2
+386;7;Tipo (circuito abierto, circuito cerrado, híbrida, condensador evaporativo);2
+387;7;Tiro (inducido, forzado);2
+388;7;Tipo de ventiladores (axiales, centrífugos);2
+389;7;Número de ventiladores;0
+390;7;Número de motores;0
+391;7;Control concentración de sales (purga manual, purga temporizada, purga conductivimétrica);2
+392;7;Sistema de desinfección (químico, físico-químico, físico);2
+393;7;Tratamiento de agua (químico, físico);2
+394;7;Dimensiones;2
+395;8;Fabricante;2
+396;8;Modelo;2
+397;8;Número de serie;2
+398;8;Categorías a la que pertenece la envolvente, según UNE 100180;2
+399;8;Clase de estanquidad y fugas;2
+400;8;Clase de resistencia mecánica;2
+401;8;Clase de transmitancia térmica;2
+402;8;Clase de puentes térmicos;2
+403;8;Configuración (compacto, partido);2
+404;8;Funcionamiento (sólo frío, bomba de calor);2
+405;8;Condensación (por agua, por aire);2
+406;8;Número de compresores;0
+407;8;Compresor (hermético, semihermético);2
+408;8;Número de circuitos frigoríficos independientes;0
+409;8;Refrigerante (R);2
+410;8;Carga de refrigerante por circuito (kg);1
+411;8;Carga total de refrigerante (kg);1
+412;8;Sistema de enfriamiento gratuito;2
+413;8;Calentamiento (agua, resistencia eléctrica);2
+414;8;Intercambiador interior de tubo y aletas ( baterias) -> Fabricante;2
+415;8;Intercambiador interior de tubo y aletas ( baterias) -> Tipo;2
+416;8;Intercambiador interior de tubo y aletas ( baterias) -> Material aletas (aluminio, cobre);2
+417;8;Intercambiador interior de tubo y aletas ( baterias) -> Número de aletas por pulgada;0
+418;8;Intercambiador interior de tubo y aletas ( baterias) -> Dimensiones frontales de la batería;2
+419;8;Intercambiador interior de tubo y aletas ( baterias) -> Número de rangos;0
+420;8;Intercambiador interior de tubo y aletas ( baterias) -> Número de tubos en cada rango;0
+421;8;Intercambiador interior de tubo y aletas ( baterias) -> Diámetro de los tubos (mm);1
+422;8;Intercambiador interior de tubo y aletas ( baterias) -> Potencia térmica (kW);1
+423;8;Intercambiador interior de tubo y aletas ( baterias) -> Fluido primario (refrigerante) (Temperatura entrada °C);1
+424;8;Intercambiador interior de tubo y aletas ( baterias) -> Fluido primario (refrigerante) (Temperatura salida °C);1
+425;8;Intercambiador interior de tubo y aletas ( baterias) -> Fluido secundario (aire) Caudal (L/s);1
+426;8;Intercambiador interior de tubo y aletas ( baterias) -> Fluido secundario (aire) (Temperatura entrada seca °C);1
+427;8;Intercambiador interior de tubo y aletas ( baterias) -> Fluido secundario (aire) (Temperatura entrada húmeda °C);1
+428;8;Intercambiador interior de tubo y aletas ( baterias) -> Fluido secundario (aire) (Temperatura salida seca °C);1
+429;8;Intercambiador interior de tubo y aletas ( baterias) -> Fluido secundario (aire) (Temperatura salida húmeda °C);1
+430;8;Intercambiador exterior de tubo y aletas ( baterias) -> Fabricante;2
+431;8;Intercambiador exterior de tubo y aletas ( baterias) -> Tipo;2
+432;8;Intercambiador exterior de tubo y aletas ( baterias) -> Material aletas (aluminio, cobre);2
+433;8;Intercambiador exterior de tubo y aletas ( baterias) -> Número de aletas por pulgada;0
+434;8;Intercambiador exterior de tubo y aletas ( baterias) -> Dimensiones frontales de la batería;2
+435;8;Intercambiador exterior de tubo y aletas ( baterias) -> Número de rangos;0
+436;8;Intercambiador exterior de tubo y aletas ( baterias) -> Número de tubos en cada rango;0
+437;8;Intercambiador exterior de tubo y aletas ( baterias) -> Diámetro de los tubos (mm);1
+438;8;Intercambiador exterior de tubo y aletas ( baterias) -> Potencia térmica (kW);1
+439;8;Intercambiador exterior de tubo y aletas ( baterias) -> Fluido primario (refrigerante) (Temperatura entrada °C);1
+440;8;Intercambiador exterior de tubo y aletas ( baterias) -> Fluido primario (refrigerante) (Temperatura salida °C);1
+441;8;Intercambiador exterior de tubo y aletas ( baterias) -> Fluido secundario (aire) Caudal (L/s);1
+442;8;Intercambiador exterior de tubo y aletas ( baterias) -> Fluido secundario (aire) (Temperatura entrada seca °C);1
+443;8;Intercambiador exterior de tubo y aletas ( baterias) -> Fluido secundario (aire) (Temperatura salida seca °C);1
+444;8;Intercambiador exterior (agua) de placas -> Fabricante;2
+445;8;Intercambiador exterior (agua) de placas -> Modelo;2
+446;8;Intercambiador exterior (agua) de placas -> Tipo;2
+447;8;Intercambiador exterior (agua) de placas -> Material placas;2
+448;8;Intercambiador exterior (agua) de placas -> Presión de trabajo (bar);1
+449;8;Intercambiador exterior (agua) de placas -> Potencia térmica (kW);1
+450;8;Intercambiador exterior (agua) de placas -> Fluido primario (refrigerante) (Temperatura entrada °C);1
+451;8;Intercambiador exterior (agua) de placas -> Fluido primario (refrigerante) (Temperatura salida °C);1
+452;8;Intercambiador exterior (agua) de placas -> Fluido secundario Caudal (L/s);1
+453;8;Intercambiador exterior (agua) de placas -> Fluido secundario (Temperatura entrada °C);1
+454;8;Intercambiador exterior (agua) de placas -> Fluido secundario (Temperatura salida  °C);1
+455;8;Intercambiador exterior (agua) de haz tubular y carcasa de acero -> Fabricante;2
+456;8;Intercambiador exterior (agua) de haz tubular y carcasa de acero -> Modelo;2
+457;8;Intercambiador exterior (agua) de haz tubular y carcasa de acero -> Tipo;2
+458;8;Intercambiador exterior (agua) de haz tubular y carcasa de acero -> Material tubos (cobre,  cuproníquel, acero, acero inoxidable, otros);2
+459;8;Intercambiador exterior (agua) de haz tubular y carcasa de acero -> Tipo de tubos (paredes lisas, aleteado externo, espiral interna);2
+460;8;Intercambiador exterior (agua) de haz tubular y carcasa de acero -> Forma de tubos (rectos, horquillas);2
+461;8;Intercambiador exterior (agua) de haz tubular y carcasa de acero -> Año de fabricación;2
+462;8;Intercambiador exterior (agua) de haz tubular y carcasa de acero -> Fecha de timbrado;2
+463;8;Intercambiador exterior (agua) de haz tubular y carcasa de acero -> Volumen (L);1
+464;8;Intercambiador exterior (agua) de haz tubular y carcasa de acero -> Presión de timbre (bar);1
+465;8;Intercambiador exterior (agua) de haz tubular y carcasa de acero -> Presión de trabajo (bar);1
+466;8;Intercambiador exterior (agua) de haz tubular y carcasa de acero -> Potencia térmica (kW);1
+467;8;Intercambiador exterior (agua) de haz tubular y carcasa de acero -> Fluido primario (refrigerante) (Temperatura entrada °C);1
+468;8;Intercambiador exterior (agua) de haz tubular y carcasa de acero -> Fluido primario (refrigerante) (Temperatura salida °C);1
+469;8;Intercambiador exterior (agua) de haz tubular y carcasa de acero -> Fluido secundario Caudal (L/s);1
+470;8;Intercambiador exterior (agua) de haz tubular y carcasa de acero -> Fluido secundario (Temperatura entrada °C);1
+471;8;Intercambiador exterior (agua) de haz tubular y carcasa de acero -> Fluido secundario (Temperatura salida °C);1
+472;8;Intercambiador exterior (agua) de tubo en tubo -> Fabricante;2
+473;8;Intercambiador exterior (agua) de tubo en tubo -> Modelo;2
+474;8;Intercambiador exterior (agua) de tubo en tubo -> Tipo;2
+475;8;Intercambiador exterior (agua) de tubo en tubo -> Material tubos internos (cobre, cuproníquel, acero);2
+476;8;Intercambiador exterior (agua) de tubo en tubo -> Tipo de tubos internos (paredes lisas, aleteadas);2
+477;8;Intercambiador exterior (agua) de tubo en tubo -> Potencia térmica (kW);1
+478;8;Intercambiador exterior (agua) de tubo en tubo -> Fluido primario (refrigerante) (Temperatura entrada °C);1
+479;8;Intercambiador exterior (agua) de tubo en tubo -> Fluido primario (refrigerante) (Temperatura salida °C);1
+480;8;Intercambiador exterior (agua) de tubo en tubo -> Fluido secundario Caudal (L/s);1
+481;8;Intercambiador exterior (agua) de tubo en tubo -> Fluido secundario (Temperatura entrada °C);1
+482;8;Intercambiador exterior (agua) de tubo en tubo -> Fluido secundario (Temperatura salida °C);1
+483;9;Fabricante;2
+484;9;Modelo unidad exterior;2
+485;9;Número de serie;2
+486;9;Modelo unidad interior;2
+487;9;Números de serie;2
+488;9;Funcionamiento (solo frío, bomba de calor);2
+489;9;Tipo de refrigerante (R);2
+490;9;Carga de refrigerante total del circuito frigorífico de cada unidad exterior;2
+491;9;Tensión nominal en placa unidad exterior (V);1
+492;9;Tensión nominal en placa unidad interior (V);1
+493;9;Tipo de filtro de aire en la unidad interior;2
+494;13;Fabricante;2
+495;13;Modelo;2
+496;13;Número de serie;2
+497;13;Tipo (por resistencias eléctricas);2
+498;13;Tipo (por electrodos);2
+499;13;Número de lanzas;0
+500;13;Control;2
+501;13;Emisión vapor (ambiente);2
+502;13;Emisión vapor (conducto);2
+503;13;Emisión vapor (UTA);2
+504;14;Fabricante;2
+505;14;Modelo;2
+506;14;Número de serie;2
+507;14;Tipo de contacto (indicar material);2
+508;14;Tipo de pulverización mecánica;2
+509;14;Tipo magnético;2
+510;14;Dimensiones;2
+511;15;Fabricante;2
+512;15;Modelo;2
+513;15;Número de serie;2
+514;15;material de los tubos;2
+515;15;material de la superficie aleteada;2
+516;15;paso entre tubos;2
+517;15;número de filas;0
+518;15;número de tubos por fila;0
+519;15;paso entre aletas;2
+520;15;colectores;2
+521;15;superficie frontal;2
+522;15;Función (calentamiento, refrigeración);2
+523;16;Fabricante;2
+524;16;Modelo;2
+525;16;Número de serie;2
+526;16;Tipo (centrífugo de álabes hacia atrás, centrífugo de álabes hacia delante, axial);2
+527;16;Acoplamiento (por poleas y correas, directo);2
+528;16;Variación de velocidad por convertidor de frecuencia;2
+529;16;Pintura de protección;2
+530;16;Dimensiones exteriores;2
+531;16;Diámetro del rodete;2
+532;19;Función (Impulsión, Retorno, Extracción, Toma de ventilación);2
+533;19;Presión de trabajo máxima (Pa);1
+534;19;Clase;2
+535;19;Forma transversal;2
+536;19;Tipo de uniones;2
+537;19;Dimensiones interiores;2
+538;19;Material;2
+539;19;Espesor;2
+540;19;Aislamiento exterior (tipo y espesor);2
+541;19;Aislamiento interior;2
+542;19;Material del aislamiento;2
+543;19;Registros de limpieza;2
+544;20;Fabricante;2
+545;20;Tipo;2
+546;20;Modelo;2
+547;20;Dimensiones;2
+548;20;Caudal (L/s);1
+549;20;Caída de presión (Pa);1
+550;21;Fabricante;2
+551;21;Modelo;2
+552;21;Tipo;2
+553;21;Dimensión libre de paso de aire;2
+554;21;Caudal (L/s);1
+555;21;Caída de presión (Pa);1
+556;22;Fabricante;2
+557;22;Modelo;2
+558;22;Tipo;2
+559;22;Material;2
+560;22;Dimensiones;2
+561;22;Cauda (L/s);1
+562;22;Caída de presión (Pa);1
+563;23;Fabricante;2
+564;23;Tipo;2
+565;23;Modelo;2
+566;23;Aplicación;2
+567;23;Dimensiones;2
+568;23;Caudal (L/s);1
+569;23;Caída de presión (Pa);1
+570;24;Fabricante;2
+571;24;Modelo;2
+572;24;Lamas de deflexión;2
+573;24;Aplicación (impulsión, retorno);2
+574;24;Dimensiones;2
+575;24;Caudal (L/s);1
+576;24;Caída de presión (Pa);1
+577;25;Fabricante;2
+578;25;Modelo;2
+579;25;Aplicación (toma, expulsión);2
+580;25;Dimensiones;2
+581;25;Caudal (L/s);1
+582;25;Caída de presión (Pa);1
+583;26;Fabricante;2
+584;26;Tipo;2
+585;26;Modelo;2
+586;26;Caudal (L/s);1
+587;26;Caída de presión (Pa);1
+588;27;Fabricante;2
+589;27;Tipo;2
+590;27;Modelo;2
+591;27;Caudal (L/s);1
+592;27;Caída de presión (Pa);1

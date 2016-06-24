@@ -1,0 +1,65 @@
+1;Generadores De Calor De Combustibles Liquidos (+70 kW)
+2;Almacenamiento De Combustibles Liquidos
+3;Generadores De Calor De Combustibles Gaseosos (+70 kW)
+4;Generadores De Calor Por Placas Solares  (Mayor a 20m2)
+5;Plantas Enfriadoras De Compresion Mecanica
+6;Plantas Enfriadoras De Ciclo De Absorcion
+7;Torres De Refrigeracion Y Condensadores Evaporativos
+8;Equipos Autonomos De Acondicionmiento De Aire
+9;Equipos De Caudal De Refrigerante Variable (+70 kW)
+10;Unidades De Tratamiento De Aire
+11;Filtros De Aire
+12;Recuperadores De Calor Aire – Aire
+13;Aparatos De Humectacion Del Aire Por Vapor
+14;Aparato De Enfriamiento Adiabatico Y Humectacion
+15;Baterias De Aire
+16;Ventiladores
+17;Motobombas
+18;Generadores De Calor Por Placas Solares (Menor o igual a 20m2)
+19;Conductos y Componentes -> Conducto
+20;Conductos y Componentes -> Compuertas  De  Sobrepresión
+21;Conductos y Componentes -> Atenuadores Acústicos
+22;Conductos y Componentes -> Compuertas Cortafuegos
+23;Conductos y Componentes -> Compuertas  De Regulación
+24;Conductos y Componentes -> Rejillas
+25;Conductos y Componentes -> Rejas
+26;Conductos y Componentes -> Difusores
+27;Conductos y Componentes -> Toberas
+28;Redes hidráulicas y componentes -> Tuberias (+70 kW)
+29;Redes hidráulicas y componentes -> Valvula De Accionamiento Manual (+70 kW)
+30;Redes hidráulicas y componentes -> Deposito De Acumulación De Agua (+70 kW)
+31;Redes hidráulicas y componentes -> Amortiguadores De Vibraciones
+32;Redes hidráulicas y componentes -> Compensadores De Dilatación
+33;Redes hidráulicas y componentes -> Vaso De Expansión
+34;Redes hidráulicas y componentes -> Desconector
+35;Redes hidráulicas y componentes -> Válvula De Seguridad
+36;Redes hidráulicas y componentes -> Filtros De Agua
+37;Redes hidráulicas y componentes -> Manguitos Aislantes Antielectroliticos
+38;Redes hidráulicas y componentes -> Contadores De Agua
+39;Redes hidráulicas y componentes -> Medidores De Caudal
+40;Redes hidráulicas y componentes -> Interruptores De Flujo De Agua
+41;Redes hidráulicas y componentes -> Absorbedores De Golpe De Ariete
+42;Redes hidráulicas y componentes -> Trampas De Vapor Retorno De Condensados
+43;Redes hidráulicas y componentes -> Grupo De Presion De Agua
+44;Redes hidráulicas y componentes -> Pasamuros Para Tuberias (+70 kW)
+45;Intercambiadores de calor agua-agua -> De Placas
+46;Intercambiadores de calor agua-agua -> De Haz Tubular Y Carcasa De Acero
+47;Intercambiadores de calor agua-agua -> De Tubo En Tubo
+48;Unidades terminales -> Ventiloconvectores
+49;Unidades terminales -> Inductores o Vigas frías
+50;Unidades terminales -> Cajas de caudal constante de aire
+51;Unidades terminales -> Unidades de caudal variable de aire
+52;Unidades terminales -> Radiadores y convectores (+70 kW)
+53;Unidades terminales -> Techos y  suelos radiantes (+70 kW)
+54;Unidades terminales -> Velas frías
+55;Unidades terminales -> Cortinas de aire
+56;Instalación de control -> neumático
+57;Instalación de control -> electromecánico
+58;Instalación de control -> por autómata electrónico
+59;Instalación de control -> Computerizado -> Puestos De Control Y Operación
+60;Instalación de control -> Computerizado -> Distribuidos Microprocesados
+61;Instalación de control -> Computerizado -> De Unidades Terminales
+62;Instalación de control -> Computerizado -> Alarmas
+63;Instalación de control -> Computerizado -> Integraciones
+64;Instalación de control -> Computerizado -> Telegestion
+65;Instalación de control -> Computerizado -> Muestreo Del Equipo De Campo

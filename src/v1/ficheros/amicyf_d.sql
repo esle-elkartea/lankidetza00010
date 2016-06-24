@@ -1,0 +1,8 @@
+\copy PROVINCIA FROM '..\\..\\tmp\\provincias.txt' WITH DELIMITER ';'
+\copy LOCALIDAD FROM '..\\..\\tmp\\localidadesSort.txt' WITH DELIMITER ';'
+\copy PROTOCOLO(pridprotocolo,prnombre) FROM '..\\..\\tmp\\Protocolo.txt' WITH DELIMITER ';'
+\copy protocolo_caracteristicas FROM '..\\..\\tmp\\Protocolo_caracteristicas.txt' WITH DELIMITER ';'
+\copy protocolo_mantenimientos FROM '..\\..\\tmp\\Protocolo_mantenimientos.txt' WITH DELIMITER ';'
+\copy Configuracion FROM '..\\..\\tmp\\Configuracion.txt' WITH DELIMITER ';'
+\copy Perfil FROM '..\\..\\tmp\\Perfil.txt' WITH DELIMITER ';'
+\copy Kilometraje FROM '..\\..\\tmp\\Kilometraje.txt' WITH DELIMITER ';'

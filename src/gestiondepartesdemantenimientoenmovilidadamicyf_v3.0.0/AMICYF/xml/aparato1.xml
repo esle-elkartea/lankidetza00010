@@ -1,0 +1,32 @@
+<Aparato value="NISU2 - B - 1">
+	<medicion fecha="01/05/2011" hora="09:18:22">
+		<Valor1_NISU2>a1</Valor1_NISU2>
+		<Valor2_NISU2>b1</Valor2_NISU2>
+		<Valor3_NISU2>c1</Valor3_NISU2>
+	</medicion>
+	<medicion fecha="01/05/2011" hora="10:18:22">
+		<Valor1_NISU2>a2</Valor1_NISU2>
+		<Valor2_NISU2>b2</Valor2_NISU2>
+		<Valor3_NISU2>c2</Valor3_NISU2>
+	</medicion>
+	<medicion fecha="01/05/2011" hora="10:32:22">
+		<Valor1_NISU2>a2.2</Valor1_NISU2>
+		<Valor2_NISU2>b2.2</Valor2_NISU2>
+		<Valor3_NISU2>c2.2</Valor3_NISU2>
+	</medicion>
+	<medicion fecha="01/05/2011" hora="11:18:22">
+		<Valor1_NISU2>a3</Valor1_NISU2>
+		<Valor2_NISU2>b3</Valor2_NISU2>
+		<Valor3_NISU2>c3</Valor3_NISU2>
+	</medicion>
+	<medicion fecha="01/05/2011" hora="12:18:22">
+		<Valor1_NISU2>a4</Valor1_NISU2>
+		<Valor2_NISU2>b4</Valor2_NISU2>
+		<Valor3_NISU2>c4</Valor3_NISU2>
+	</medicion>
+	<medicion fecha="01/05/2011" hora="13:18:22">
+		<Valor1_NISU2>a5</Valor1_NISU2>
+		<Valor2_NISU2>b5</Valor2_NISU2>
+		<Valor3_NISU2>c5</Valor3_NISU2>
+	</medicion>
+</Aparato>

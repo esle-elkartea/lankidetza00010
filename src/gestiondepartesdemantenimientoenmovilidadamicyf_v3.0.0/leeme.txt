@@ -1,0 +1,74 @@
+
+-------------------------------------------------------------------------------------
+				    INSTALACIÓN
+-------------------------------------------------------------------------------------
+
+
+
+Paso 1:
+-------
+
+Instale java en su equipo desde la pagina http://java.com/es/download/ 
+
+
+
+Paso 2:
+-------
+
+Para la instalación del programa se han de copiar ambas carpetas (Server_DB y AMICYF) 
+
+en un directiorio con permisios de lectura y escritura para el usuario que va a usar 
+
+el programa.
+
+
+
+
+
+-------------------------------------------------------------------------------------
+				    EJECUCIÓN
+-------------------------------------------------------------------------------------
+
+
+Paso 1:
+-------
+
+Primero se ha de iniciar el mowes.exe que está dentro de la carpeta Server_DB, esto 
+
+abrirá un programa que ejecutará un servidor apache por el puerto 80 y una base de 
+
+datos mysql, automaticamente se abrirá en el explorador predeterminado el apartado 
+
+de movilidad del programa.
+
+
+MoWeS Portable es sofware libre bajo licencia GNU. Dentro de la carpeta se encuentran
+
+los terminos de la licencia de uso de este programa.
+
+
+
+
+Paso 2:
+-------
+
+Luego simplemente se ha de ejecutar el archivo AMICYF.jar dentro de la carpeta AMICYF
+
+
+
+Paso 3:
+-------
+
+Se abrirá el programa de amicyf y se pedirá usuario y contraseña para acceder a la 
+
+aplicación. Los usuarios y passwords habilitados por defecto són:
+
+
+Usario		Password
+------		--------
+Admin		Admin		(Administrador de aplicación)
+User1		User1		(Usuario limitado de aplicación)
+User2		User2		(Usuario limitado de aplicación)
+User3		User3		(Usuario limitado de aplicación)
+
+
